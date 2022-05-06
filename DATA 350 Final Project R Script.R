@@ -11,3 +11,5 @@ setwd("C:/Users/flynn/OneDrive/Desktop/Augie Junior Year/DATA 332-01/FInal Proje
 df_ladybug <- read_excel("Ladybug Data", sheet = 1)
 
 #CompletePierisData_2022-03-09.xlsx
+
+#sodubdsofb
